@@ -43,3 +43,5 @@ Run the metrics exporter:
 ```
 python webmetrics7.py
 ```
+
+This metrics exporter works with N sockets, N memory controller and N channels
