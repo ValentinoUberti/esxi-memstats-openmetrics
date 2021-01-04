@@ -1,0 +1,425 @@
+SOCKET :  0
+	 IMC-0
+		 Channel-0
+			 UNC_M_PMM_RPQ_INSERTS 1
+UNC_M_PMM_RPQ_INSERTS{hostname="fedorone",socket="0",memory_controller="IMC-0",channel="Channel-0"} 1
+			 UNC_M_PMM_WPQ_INSERTS 0
+UNC_M_PMM_WPQ_INSERTS{hostname="fedorone",socket="0",memory_controller="IMC-0",channel="Channel-0"} 0
+			 UNC_M_CLOCKTICKS 1335082142
+UNC_M_CLOCKTICKS{hostname="fedorone",socket="0",memory_controller="IMC-0",channel="Channel-0"} 1335082142
+			 UNC_M_PMM_RPQ_OCCUPANCY_ALL 64
+UNC_M_PMM_RPQ_OCCUPANCY_ALL{hostname="fedorone",socket="0",memory_controller="IMC-0",channel="Channel-0"} 64
+			 UNC_M_PMM_WPQ_OCCUPANCY_ALL 0
+UNC_M_PMM_WPQ_OCCUPANCY_ALL{hostname="fedorone",socket="0",memory_controller="IMC-0",channel="Channel-0"} 0
+			 UNC_M_RPQ_INSERTS 1666
+UNC_M_RPQ_INSERTS{hostname="fedorone",socket="0",memory_controller="IMC-0",channel="Channel-0"} 1666
+			 UNC_M_RPQ_OCCUPANCY 62051
+UNC_M_RPQ_OCCUPANCY{hostname="fedorone",socket="0",memory_controller="IMC-0",channel="Channel-0"} 62051
+			 UNC_M_WPQ_INSERTS 8216
+UNC_M_WPQ_INSERTS{hostname="fedorone",socket="0",memory_controller="IMC-0",channel="Channel-0"} 8216
+			 UNC_M_WPQ_OCCUPANCY 1177027
+UNC_M_WPQ_OCCUPANCY{hostname="fedorone",socket="0",memory_controller="IMC-0",channel="Channel-0"} 1177027
+			 UNC_M_CAS_COUNT_RD 8342
+UNC_M_CAS_COUNT_RD{hostname="fedorone",socket="0",memory_controller="IMC-0",channel="Channel-0"} 8342
+			 UNC_M_CAS_COUNT_WR 8525
+UNC_M_CAS_COUNT_WR{hostname="fedorone",socket="0",memory_controller="IMC-0",channel="Channel-0"} 8525
+		 Channel-1
+			 UNC_M_PMM_RPQ_INSERTS 0
+UNC_M_PMM_RPQ_INSERTS{hostname="fedorone",socket="0",memory_controller="IMC-0",channel="Channel-1"} 0
+			 UNC_M_PMM_WPQ_INSERTS 0
+UNC_M_PMM_WPQ_INSERTS{hostname="fedorone",socket="0",memory_controller="IMC-0",channel="Channel-1"} 0
+			 UNC_M_CLOCKTICKS 1335178650
+UNC_M_CLOCKTICKS{hostname="fedorone",socket="0",memory_controller="IMC-0",channel="Channel-1"} 1335178650
+			 UNC_M_PMM_RPQ_OCCUPANCY_ALL 0
+UNC_M_PMM_RPQ_OCCUPANCY_ALL{hostname="fedorone",socket="0",memory_controller="IMC-0",channel="Channel-1"} 0
+			 UNC_M_PMM_WPQ_OCCUPANCY_ALL 0
+UNC_M_PMM_WPQ_OCCUPANCY_ALL{hostname="fedorone",socket="0",memory_controller="IMC-0",channel="Channel-1"} 0
+			 UNC_M_RPQ_INSERTS 2033
+UNC_M_RPQ_INSERTS{hostname="fedorone",socket="0",memory_controller="IMC-0",channel="Channel-1"} 2033
+			 UNC_M_RPQ_OCCUPANCY 73330
+UNC_M_RPQ_OCCUPANCY{hostname="fedorone",socket="0",memory_controller="IMC-0",channel="Channel-1"} 73330
+			 UNC_M_WPQ_INSERTS 8684
+UNC_M_WPQ_INSERTS{hostname="fedorone",socket="0",memory_controller="IMC-0",channel="Channel-1"} 8684
+			 UNC_M_WPQ_OCCUPANCY 1236619
+UNC_M_WPQ_OCCUPANCY{hostname="fedorone",socket="0",memory_controller="IMC-0",channel="Channel-1"} 1236619
+			 UNC_M_CAS_COUNT_RD 8750
+UNC_M_CAS_COUNT_RD{hostname="fedorone",socket="0",memory_controller="IMC-0",channel="Channel-1"} 8750
+			 UNC_M_CAS_COUNT_WR 8926
+UNC_M_CAS_COUNT_WR{hostname="fedorone",socket="0",memory_controller="IMC-0",channel="Channel-1"} 8926
+		 Channel-2
+			 UNC_M_PMM_RPQ_INSERTS 0
+UNC_M_PMM_RPQ_INSERTS{hostname="fedorone",socket="0",memory_controller="IMC-0",channel="Channel-2"} 0
+			 UNC_M_PMM_WPQ_INSERTS 0
+UNC_M_PMM_WPQ_INSERTS{hostname="fedorone",socket="0",memory_controller="IMC-0",channel="Channel-2"} 0
+			 UNC_M_CLOCKTICKS 1335262936
+UNC_M_CLOCKTICKS{hostname="fedorone",socket="0",memory_controller="IMC-0",channel="Channel-2"} 1335262936
+			 UNC_M_PMM_RPQ_OCCUPANCY_ALL 0
+UNC_M_PMM_RPQ_OCCUPANCY_ALL{hostname="fedorone",socket="0",memory_controller="IMC-0",channel="Channel-2"} 0
+			 UNC_M_PMM_WPQ_OCCUPANCY_ALL 0
+UNC_M_PMM_WPQ_OCCUPANCY_ALL{hostname="fedorone",socket="0",memory_controller="IMC-0",channel="Channel-2"} 0
+			 UNC_M_RPQ_INSERTS 2584
+UNC_M_RPQ_INSERTS{hostname="fedorone",socket="0",memory_controller="IMC-0",channel="Channel-2"} 2584
+			 UNC_M_RPQ_OCCUPANCY 89594
+UNC_M_RPQ_OCCUPANCY{hostname="fedorone",socket="0",memory_controller="IMC-0",channel="Channel-2"} 89594
+			 UNC_M_WPQ_INSERTS 9011
+UNC_M_WPQ_INSERTS{hostname="fedorone",socket="0",memory_controller="IMC-0",channel="Channel-2"} 9011
+			 UNC_M_WPQ_OCCUPANCY 1250423
+UNC_M_WPQ_OCCUPANCY{hostname="fedorone",socket="0",memory_controller="IMC-0",channel="Channel-2"} 1250423
+			 UNC_M_CAS_COUNT_RD 9416
+UNC_M_CAS_COUNT_RD{hostname="fedorone",socket="0",memory_controller="IMC-0",channel="Channel-2"} 9416
+			 UNC_M_CAS_COUNT_WR 9405
+UNC_M_CAS_COUNT_WR{hostname="fedorone",socket="0",memory_controller="IMC-0",channel="Channel-2"} 9405
+	 IMC-1
+		 Channel-0
+			 UNC_M_PMM_RPQ_INSERTS 0
+UNC_M_PMM_RPQ_INSERTS{hostname="fedorone",socket="0",memory_controller="IMC-1",channel="Channel-0"} 0
+			 UNC_M_PMM_WPQ_INSERTS 0
+UNC_M_PMM_WPQ_INSERTS{hostname="fedorone",socket="0",memory_controller="IMC-1",channel="Channel-0"} 0
+			 UNC_M_CLOCKTICKS 1335342984
+UNC_M_CLOCKTICKS{hostname="fedorone",socket="0",memory_controller="IMC-1",channel="Channel-0"} 1335342984
+			 UNC_M_PMM_RPQ_OCCUPANCY_ALL 63
+UNC_M_PMM_RPQ_OCCUPANCY_ALL{hostname="fedorone",socket="0",memory_controller="IMC-1",channel="Channel-0"} 63
+			 UNC_M_PMM_WPQ_OCCUPANCY_ALL 0
+UNC_M_PMM_WPQ_OCCUPANCY_ALL{hostname="fedorone",socket="0",memory_controller="IMC-1",channel="Channel-0"} 0
+			 UNC_M_RPQ_INSERTS 744
+UNC_M_RPQ_INSERTS{hostname="fedorone",socket="0",memory_controller="IMC-1",channel="Channel-0"} 744
+			 UNC_M_RPQ_OCCUPANCY 27270
+UNC_M_RPQ_OCCUPANCY{hostname="fedorone",socket="0",memory_controller="IMC-1",channel="Channel-0"} 27270
+			 UNC_M_WPQ_INSERTS 7221
+UNC_M_WPQ_INSERTS{hostname="fedorone",socket="0",memory_controller="IMC-1",channel="Channel-0"} 7221
+			 UNC_M_WPQ_OCCUPANCY 1058804
+UNC_M_WPQ_OCCUPANCY{hostname="fedorone",socket="0",memory_controller="IMC-1",channel="Channel-0"} 1058804
+			 UNC_M_CAS_COUNT_RD 7651
+UNC_M_CAS_COUNT_RD{hostname="fedorone",socket="0",memory_controller="IMC-1",channel="Channel-0"} 7651
+			 UNC_M_CAS_COUNT_WR 7764
+UNC_M_CAS_COUNT_WR{hostname="fedorone",socket="0",memory_controller="IMC-1",channel="Channel-0"} 7764
+		 Channel-1
+			 UNC_M_PMM_RPQ_INSERTS 0
+UNC_M_PMM_RPQ_INSERTS{hostname="fedorone",socket="0",memory_controller="IMC-1",channel="Channel-1"} 0
+			 UNC_M_PMM_WPQ_INSERTS 0
+UNC_M_PMM_WPQ_INSERTS{hostname="fedorone",socket="0",memory_controller="IMC-1",channel="Channel-1"} 0
+			 UNC_M_CLOCKTICKS 1335413741
+UNC_M_CLOCKTICKS{hostname="fedorone",socket="0",memory_controller="IMC-1",channel="Channel-1"} 1335413741
+			 UNC_M_PMM_RPQ_OCCUPANCY_ALL 232
+UNC_M_PMM_RPQ_OCCUPANCY_ALL{hostname="fedorone",socket="0",memory_controller="IMC-1",channel="Channel-1"} 232
+			 UNC_M_PMM_WPQ_OCCUPANCY_ALL 0
+UNC_M_PMM_WPQ_OCCUPANCY_ALL{hostname="fedorone",socket="0",memory_controller="IMC-1",channel="Channel-1"} 0
+			 UNC_M_RPQ_INSERTS 980
+UNC_M_RPQ_INSERTS{hostname="fedorone",socket="0",memory_controller="IMC-1",channel="Channel-1"} 980
+			 UNC_M_RPQ_OCCUPANCY 34971
+UNC_M_RPQ_OCCUPANCY{hostname="fedorone",socket="0",memory_controller="IMC-1",channel="Channel-1"} 34971
+			 UNC_M_WPQ_INSERTS 7688
+UNC_M_WPQ_INSERTS{hostname="fedorone",socket="0",memory_controller="IMC-1",channel="Channel-1"} 7688
+			 UNC_M_WPQ_OCCUPANCY 1084032
+UNC_M_WPQ_OCCUPANCY{hostname="fedorone",socket="0",memory_controller="IMC-1",channel="Channel-1"} 1084032
+			 UNC_M_CAS_COUNT_RD 7889
+UNC_M_CAS_COUNT_RD{hostname="fedorone",socket="0",memory_controller="IMC-1",channel="Channel-1"} 7889
+			 UNC_M_CAS_COUNT_WR 8289
+UNC_M_CAS_COUNT_WR{hostname="fedorone",socket="0",memory_controller="IMC-1",channel="Channel-1"} 8289
+		 Channel-2
+			 UNC_M_PMM_RPQ_INSERTS 0
+UNC_M_PMM_RPQ_INSERTS{hostname="fedorone",socket="0",memory_controller="IMC-1",channel="Channel-2"} 0
+			 UNC_M_PMM_WPQ_INSERTS 0
+UNC_M_PMM_WPQ_INSERTS{hostname="fedorone",socket="0",memory_controller="IMC-1",channel="Channel-2"} 0
+			 UNC_M_CLOCKTICKS 1335486408
+UNC_M_CLOCKTICKS{hostname="fedorone",socket="0",memory_controller="IMC-1",channel="Channel-2"} 1335486408
+			 UNC_M_PMM_RPQ_OCCUPANCY_ALL 232
+UNC_M_PMM_RPQ_OCCUPANCY_ALL{hostname="fedorone",socket="0",memory_controller="IMC-1",channel="Channel-2"} 232
+			 UNC_M_PMM_WPQ_OCCUPANCY_ALL 0
+UNC_M_PMM_WPQ_OCCUPANCY_ALL{hostname="fedorone",socket="0",memory_controller="IMC-1",channel="Channel-2"} 0
+			 UNC_M_RPQ_INSERTS 1827
+UNC_M_RPQ_INSERTS{hostname="fedorone",socket="0",memory_controller="IMC-1",channel="Channel-2"} 1827
+			 UNC_M_RPQ_OCCUPANCY 63976
+UNC_M_RPQ_OCCUPANCY{hostname="fedorone",socket="0",memory_controller="IMC-1",channel="Channel-2"} 63976
+			 UNC_M_WPQ_INSERTS 8459
+UNC_M_WPQ_INSERTS{hostname="fedorone",socket="0",memory_controller="IMC-1",channel="Channel-2"} 8459
+			 UNC_M_WPQ_OCCUPANCY 1164623
+UNC_M_WPQ_OCCUPANCY{hostname="fedorone",socket="0",memory_controller="IMC-1",channel="Channel-2"} 1164623
+			 UNC_M_CAS_COUNT_RD 8708
+UNC_M_CAS_COUNT_RD{hostname="fedorone",socket="0",memory_controller="IMC-1",channel="Channel-2"} 8708
+			 UNC_M_CAS_COUNT_WR 9061
+UNC_M_CAS_COUNT_WR{hostname="fedorone",socket="0",memory_controller="IMC-1",channel="Channel-2"} 9061
+SOCKET :  1
+	 IMC-0
+		 Channel-0
+			 UNC_M_PMM_RPQ_INSERTS 1
+UNC_M_PMM_RPQ_INSERTS{hostname="fedorone",socket="1",memory_controller="IMC-0",channel="Channel-0"} 1
+			 UNC_M_PMM_WPQ_INSERTS 0
+UNC_M_PMM_WPQ_INSERTS{hostname="fedorone",socket="1",memory_controller="IMC-0",channel="Channel-0"} 0
+			 UNC_M_CLOCKTICKS 1335082142
+UNC_M_CLOCKTICKS{hostname="fedorone",socket="1",memory_controller="IMC-0",channel="Channel-0"} 1335082142
+			 UNC_M_PMM_RPQ_OCCUPANCY_ALL 64
+UNC_M_PMM_RPQ_OCCUPANCY_ALL{hostname="fedorone",socket="1",memory_controller="IMC-0",channel="Channel-0"} 64
+			 UNC_M_PMM_WPQ_OCCUPANCY_ALL 0
+UNC_M_PMM_WPQ_OCCUPANCY_ALL{hostname="fedorone",socket="1",memory_controller="IMC-0",channel="Channel-0"} 0
+			 UNC_M_RPQ_INSERTS 1666
+UNC_M_RPQ_INSERTS{hostname="fedorone",socket="1",memory_controller="IMC-0",channel="Channel-0"} 1666
+			 UNC_M_RPQ_OCCUPANCY 62051
+UNC_M_RPQ_OCCUPANCY{hostname="fedorone",socket="1",memory_controller="IMC-0",channel="Channel-0"} 62051
+			 UNC_M_WPQ_INSERTS 8216
+UNC_M_WPQ_INSERTS{hostname="fedorone",socket="1",memory_controller="IMC-0",channel="Channel-0"} 8216
+			 UNC_M_WPQ_OCCUPANCY 1177027
+UNC_M_WPQ_OCCUPANCY{hostname="fedorone",socket="1",memory_controller="IMC-0",channel="Channel-0"} 1177027
+			 UNC_M_CAS_COUNT_RD 8342
+UNC_M_CAS_COUNT_RD{hostname="fedorone",socket="1",memory_controller="IMC-0",channel="Channel-0"} 8342
+			 UNC_M_CAS_COUNT_WR 8525
+UNC_M_CAS_COUNT_WR{hostname="fedorone",socket="1",memory_controller="IMC-0",channel="Channel-0"} 8525
+		 Channel-1
+			 UNC_M_PMM_RPQ_INSERTS 0
+UNC_M_PMM_RPQ_INSERTS{hostname="fedorone",socket="1",memory_controller="IMC-0",channel="Channel-1"} 0
+			 UNC_M_PMM_WPQ_INSERTS 0
+UNC_M_PMM_WPQ_INSERTS{hostname="fedorone",socket="1",memory_controller="IMC-0",channel="Channel-1"} 0
+			 UNC_M_CLOCKTICKS 1335178650
+UNC_M_CLOCKTICKS{hostname="fedorone",socket="1",memory_controller="IMC-0",channel="Channel-1"} 1335178650
+			 UNC_M_PMM_RPQ_OCCUPANCY_ALL 0
+UNC_M_PMM_RPQ_OCCUPANCY_ALL{hostname="fedorone",socket="1",memory_controller="IMC-0",channel="Channel-1"} 0
+			 UNC_M_PMM_WPQ_OCCUPANCY_ALL 0
+UNC_M_PMM_WPQ_OCCUPANCY_ALL{hostname="fedorone",socket="1",memory_controller="IMC-0",channel="Channel-1"} 0
+			 UNC_M_RPQ_INSERTS 2033
+UNC_M_RPQ_INSERTS{hostname="fedorone",socket="1",memory_controller="IMC-0",channel="Channel-1"} 2033
+			 UNC_M_RPQ_OCCUPANCY 73330
+UNC_M_RPQ_OCCUPANCY{hostname="fedorone",socket="1",memory_controller="IMC-0",channel="Channel-1"} 73330
+			 UNC_M_WPQ_INSERTS 8684
+UNC_M_WPQ_INSERTS{hostname="fedorone",socket="1",memory_controller="IMC-0",channel="Channel-1"} 8684
+			 UNC_M_WPQ_OCCUPANCY 1236619
+UNC_M_WPQ_OCCUPANCY{hostname="fedorone",socket="1",memory_controller="IMC-0",channel="Channel-1"} 1236619
+			 UNC_M_CAS_COUNT_RD 8750
+UNC_M_CAS_COUNT_RD{hostname="fedorone",socket="1",memory_controller="IMC-0",channel="Channel-1"} 8750
+			 UNC_M_CAS_COUNT_WR 8926
+UNC_M_CAS_COUNT_WR{hostname="fedorone",socket="1",memory_controller="IMC-0",channel="Channel-1"} 8926
+		 Channel-2
+			 UNC_M_PMM_RPQ_INSERTS 0
+UNC_M_PMM_RPQ_INSERTS{hostname="fedorone",socket="1",memory_controller="IMC-0",channel="Channel-2"} 0
+			 UNC_M_PMM_WPQ_INSERTS 0
+UNC_M_PMM_WPQ_INSERTS{hostname="fedorone",socket="1",memory_controller="IMC-0",channel="Channel-2"} 0
+			 UNC_M_CLOCKTICKS 1335262936
+UNC_M_CLOCKTICKS{hostname="fedorone",socket="1",memory_controller="IMC-0",channel="Channel-2"} 1335262936
+			 UNC_M_PMM_RPQ_OCCUPANCY_ALL 0
+UNC_M_PMM_RPQ_OCCUPANCY_ALL{hostname="fedorone",socket="1",memory_controller="IMC-0",channel="Channel-2"} 0
+			 UNC_M_PMM_WPQ_OCCUPANCY_ALL 0
+UNC_M_PMM_WPQ_OCCUPANCY_ALL{hostname="fedorone",socket="1",memory_controller="IMC-0",channel="Channel-2"} 0
+			 UNC_M_RPQ_INSERTS 2584
+UNC_M_RPQ_INSERTS{hostname="fedorone",socket="1",memory_controller="IMC-0",channel="Channel-2"} 2584
+			 UNC_M_RPQ_OCCUPANCY 89594
+UNC_M_RPQ_OCCUPANCY{hostname="fedorone",socket="1",memory_controller="IMC-0",channel="Channel-2"} 89594
+			 UNC_M_WPQ_INSERTS 9011
+UNC_M_WPQ_INSERTS{hostname="fedorone",socket="1",memory_controller="IMC-0",channel="Channel-2"} 9011
+			 UNC_M_WPQ_OCCUPANCY 1250423
+UNC_M_WPQ_OCCUPANCY{hostname="fedorone",socket="1",memory_controller="IMC-0",channel="Channel-2"} 1250423
+			 UNC_M_CAS_COUNT_RD 9416
+UNC_M_CAS_COUNT_RD{hostname="fedorone",socket="1",memory_controller="IMC-0",channel="Channel-2"} 9416
+			 UNC_M_CAS_COUNT_WR 9405
+UNC_M_CAS_COUNT_WR{hostname="fedorone",socket="1",memory_controller="IMC-0",channel="Channel-2"} 9405
+	 IMC-1
+		 Channel-0
+			 UNC_M_PMM_RPQ_INSERTS 0
+UNC_M_PMM_RPQ_INSERTS{hostname="fedorone",socket="1",memory_controller="IMC-1",channel="Channel-0"} 0
+			 UNC_M_PMM_WPQ_INSERTS 0
+UNC_M_PMM_WPQ_INSERTS{hostname="fedorone",socket="1",memory_controller="IMC-1",channel="Channel-0"} 0
+			 UNC_M_CLOCKTICKS 1335342984
+UNC_M_CLOCKTICKS{hostname="fedorone",socket="1",memory_controller="IMC-1",channel="Channel-0"} 1335342984
+			 UNC_M_PMM_RPQ_OCCUPANCY_ALL 63
+UNC_M_PMM_RPQ_OCCUPANCY_ALL{hostname="fedorone",socket="1",memory_controller="IMC-1",channel="Channel-0"} 63
+			 UNC_M_PMM_WPQ_OCCUPANCY_ALL 0
+UNC_M_PMM_WPQ_OCCUPANCY_ALL{hostname="fedorone",socket="1",memory_controller="IMC-1",channel="Channel-0"} 0
+			 UNC_M_RPQ_INSERTS 744
+UNC_M_RPQ_INSERTS{hostname="fedorone",socket="1",memory_controller="IMC-1",channel="Channel-0"} 744
+			 UNC_M_RPQ_OCCUPANCY 27270
+UNC_M_RPQ_OCCUPANCY{hostname="fedorone",socket="1",memory_controller="IMC-1",channel="Channel-0"} 27270
+			 UNC_M_WPQ_INSERTS 7221
+UNC_M_WPQ_INSERTS{hostname="fedorone",socket="1",memory_controller="IMC-1",channel="Channel-0"} 7221
+			 UNC_M_WPQ_OCCUPANCY 1058804
+UNC_M_WPQ_OCCUPANCY{hostname="fedorone",socket="1",memory_controller="IMC-1",channel="Channel-0"} 1058804
+			 UNC_M_CAS_COUNT_RD 7651
+UNC_M_CAS_COUNT_RD{hostname="fedorone",socket="1",memory_controller="IMC-1",channel="Channel-0"} 7651
+			 UNC_M_CAS_COUNT_WR 7764
+UNC_M_CAS_COUNT_WR{hostname="fedorone",socket="1",memory_controller="IMC-1",channel="Channel-0"} 7764
+		 Channel-1
+			 UNC_M_PMM_RPQ_INSERTS 0
+UNC_M_PMM_RPQ_INSERTS{hostname="fedorone",socket="1",memory_controller="IMC-1",channel="Channel-1"} 0
+			 UNC_M_PMM_WPQ_INSERTS 0
+UNC_M_PMM_WPQ_INSERTS{hostname="fedorone",socket="1",memory_controller="IMC-1",channel="Channel-1"} 0
+			 UNC_M_CLOCKTICKS 1335413741
+UNC_M_CLOCKTICKS{hostname="fedorone",socket="1",memory_controller="IMC-1",channel="Channel-1"} 1335413741
+			 UNC_M_PMM_RPQ_OCCUPANCY_ALL 232
+UNC_M_PMM_RPQ_OCCUPANCY_ALL{hostname="fedorone",socket="1",memory_controller="IMC-1",channel="Channel-1"} 232
+			 UNC_M_PMM_WPQ_OCCUPANCY_ALL 0
+UNC_M_PMM_WPQ_OCCUPANCY_ALL{hostname="fedorone",socket="1",memory_controller="IMC-1",channel="Channel-1"} 0
+			 UNC_M_RPQ_INSERTS 980
+UNC_M_RPQ_INSERTS{hostname="fedorone",socket="1",memory_controller="IMC-1",channel="Channel-1"} 980
+			 UNC_M_RPQ_OCCUPANCY 34971
+UNC_M_RPQ_OCCUPANCY{hostname="fedorone",socket="1",memory_controller="IMC-1",channel="Channel-1"} 34971
+			 UNC_M_WPQ_INSERTS 7688
+UNC_M_WPQ_INSERTS{hostname="fedorone",socket="1",memory_controller="IMC-1",channel="Channel-1"} 7688
+			 UNC_M_WPQ_OCCUPANCY 1084032
+UNC_M_WPQ_OCCUPANCY{hostname="fedorone",socket="1",memory_controller="IMC-1",channel="Channel-1"} 1084032
+			 UNC_M_CAS_COUNT_RD 7889
+UNC_M_CAS_COUNT_RD{hostname="fedorone",socket="1",memory_controller="IMC-1",channel="Channel-1"} 7889
+			 UNC_M_CAS_COUNT_WR 8289
+UNC_M_CAS_COUNT_WR{hostname="fedorone",socket="1",memory_controller="IMC-1",channel="Channel-1"} 8289
+		 Channel-2
+			 UNC_M_PMM_RPQ_INSERTS 0
+UNC_M_PMM_RPQ_INSERTS{hostname="fedorone",socket="1",memory_controller="IMC-1",channel="Channel-2"} 0
+			 UNC_M_PMM_WPQ_INSERTS 0
+UNC_M_PMM_WPQ_INSERTS{hostname="fedorone",socket="1",memory_controller="IMC-1",channel="Channel-2"} 0
+			 UNC_M_CLOCKTICKS 1335486408
+UNC_M_CLOCKTICKS{hostname="fedorone",socket="1",memory_controller="IMC-1",channel="Channel-2"} 1335486408
+			 UNC_M_PMM_RPQ_OCCUPANCY_ALL 232
+UNC_M_PMM_RPQ_OCCUPANCY_ALL{hostname="fedorone",socket="1",memory_controller="IMC-1",channel="Channel-2"} 232
+			 UNC_M_PMM_WPQ_OCCUPANCY_ALL 0
+UNC_M_PMM_WPQ_OCCUPANCY_ALL{hostname="fedorone",socket="1",memory_controller="IMC-1",channel="Channel-2"} 0
+			 UNC_M_RPQ_INSERTS 1827
+UNC_M_RPQ_INSERTS{hostname="fedorone",socket="1",memory_controller="IMC-1",channel="Channel-2"} 1827
+			 UNC_M_RPQ_OCCUPANCY 63976
+UNC_M_RPQ_OCCUPANCY{hostname="fedorone",socket="1",memory_controller="IMC-1",channel="Channel-2"} 63976
+			 UNC_M_WPQ_INSERTS 8459
+UNC_M_WPQ_INSERTS{hostname="fedorone",socket="1",memory_controller="IMC-1",channel="Channel-2"} 8459
+			 UNC_M_WPQ_OCCUPANCY 1164623
+UNC_M_WPQ_OCCUPANCY{hostname="fedorone",socket="1",memory_controller="IMC-1",channel="Channel-2"} 1164623
+			 UNC_M_CAS_COUNT_RD 8708
+UNC_M_CAS_COUNT_RD{hostname="fedorone",socket="1",memory_controller="IMC-1",channel="Channel-2"} 8708
+			 UNC_M_CAS_COUNT_WR 9061
+UNC_M_CAS_COUNT_WR{hostname="fedorone",socket="1",memory_controller="IMC-1",channel="Channel-2"} 9061
+# HELP UNC_M_PMM_RPQ_INSERTS Counter
+UNC_M_PMM_RPQ_INSERTS{hostname="fedorone",socket="0",memory_controller="IMC-0",channel="Channel-0"} 1
+UNC_M_PMM_RPQ_INSERTS{hostname="fedorone",socket="0",memory_controller="IMC-0",channel="Channel-1"} 0
+UNC_M_PMM_RPQ_INSERTS{hostname="fedorone",socket="0",memory_controller="IMC-0",channel="Channel-2"} 0
+UNC_M_PMM_RPQ_INSERTS{hostname="fedorone",socket="0",memory_controller="IMC-1",channel="Channel-0"} 0
+UNC_M_PMM_RPQ_INSERTS{hostname="fedorone",socket="0",memory_controller="IMC-1",channel="Channel-1"} 0
+UNC_M_PMM_RPQ_INSERTS{hostname="fedorone",socket="0",memory_controller="IMC-1",channel="Channel-2"} 0
+UNC_M_PMM_RPQ_INSERTS{hostname="fedorone",socket="1",memory_controller="IMC-0",channel="Channel-0"} 1
+UNC_M_PMM_RPQ_INSERTS{hostname="fedorone",socket="1",memory_controller="IMC-0",channel="Channel-1"} 0
+UNC_M_PMM_RPQ_INSERTS{hostname="fedorone",socket="1",memory_controller="IMC-0",channel="Channel-2"} 0
+UNC_M_PMM_RPQ_INSERTS{hostname="fedorone",socket="1",memory_controller="IMC-1",channel="Channel-0"} 0
+UNC_M_PMM_RPQ_INSERTS{hostname="fedorone",socket="1",memory_controller="IMC-1",channel="Channel-1"} 0
+UNC_M_PMM_RPQ_INSERTS{hostname="fedorone",socket="1",memory_controller="IMC-1",channel="Channel-2"} 0
+# HELP UNC_M_PMM_WPQ_INSERTS Counter
+UNC_M_PMM_WPQ_INSERTS{hostname="fedorone",socket="0",memory_controller="IMC-0",channel="Channel-0"} 0
+UNC_M_PMM_WPQ_INSERTS{hostname="fedorone",socket="0",memory_controller="IMC-0",channel="Channel-1"} 0
+UNC_M_PMM_WPQ_INSERTS{hostname="fedorone",socket="0",memory_controller="IMC-0",channel="Channel-2"} 0
+UNC_M_PMM_WPQ_INSERTS{hostname="fedorone",socket="0",memory_controller="IMC-1",channel="Channel-0"} 0
+UNC_M_PMM_WPQ_INSERTS{hostname="fedorone",socket="0",memory_controller="IMC-1",channel="Channel-1"} 0
+UNC_M_PMM_WPQ_INSERTS{hostname="fedorone",socket="0",memory_controller="IMC-1",channel="Channel-2"} 0
+UNC_M_PMM_WPQ_INSERTS{hostname="fedorone",socket="1",memory_controller="IMC-0",channel="Channel-0"} 0
+UNC_M_PMM_WPQ_INSERTS{hostname="fedorone",socket="1",memory_controller="IMC-0",channel="Channel-1"} 0
+UNC_M_PMM_WPQ_INSERTS{hostname="fedorone",socket="1",memory_controller="IMC-0",channel="Channel-2"} 0
+UNC_M_PMM_WPQ_INSERTS{hostname="fedorone",socket="1",memory_controller="IMC-1",channel="Channel-0"} 0
+UNC_M_PMM_WPQ_INSERTS{hostname="fedorone",socket="1",memory_controller="IMC-1",channel="Channel-1"} 0
+UNC_M_PMM_WPQ_INSERTS{hostname="fedorone",socket="1",memory_controller="IMC-1",channel="Channel-2"} 0
+# HELP UNC_M_CLOCKTICKS Counter
+UNC_M_CLOCKTICKS{hostname="fedorone",socket="0",memory_controller="IMC-0",channel="Channel-0"} 1335082142
+UNC_M_CLOCKTICKS{hostname="fedorone",socket="0",memory_controller="IMC-0",channel="Channel-1"} 1335178650
+UNC_M_CLOCKTICKS{hostname="fedorone",socket="0",memory_controller="IMC-0",channel="Channel-2"} 1335262936
+UNC_M_CLOCKTICKS{hostname="fedorone",socket="0",memory_controller="IMC-1",channel="Channel-0"} 1335342984
+UNC_M_CLOCKTICKS{hostname="fedorone",socket="0",memory_controller="IMC-1",channel="Channel-1"} 1335413741
+UNC_M_CLOCKTICKS{hostname="fedorone",socket="0",memory_controller="IMC-1",channel="Channel-2"} 1335486408
+UNC_M_CLOCKTICKS{hostname="fedorone",socket="1",memory_controller="IMC-0",channel="Channel-0"} 1335082142
+UNC_M_CLOCKTICKS{hostname="fedorone",socket="1",memory_controller="IMC-0",channel="Channel-1"} 1335178650
+UNC_M_CLOCKTICKS{hostname="fedorone",socket="1",memory_controller="IMC-0",channel="Channel-2"} 1335262936
+UNC_M_CLOCKTICKS{hostname="fedorone",socket="1",memory_controller="IMC-1",channel="Channel-0"} 1335342984
+UNC_M_CLOCKTICKS{hostname="fedorone",socket="1",memory_controller="IMC-1",channel="Channel-1"} 1335413741
+UNC_M_CLOCKTICKS{hostname="fedorone",socket="1",memory_controller="IMC-1",channel="Channel-2"} 1335486408
+# HELP UNC_M_PMM_RPQ_OCCUPANCY_ALL Counter
+UNC_M_PMM_RPQ_OCCUPANCY_ALL{hostname="fedorone",socket="0",memory_controller="IMC-0",channel="Channel-0"} 64
+UNC_M_PMM_RPQ_OCCUPANCY_ALL{hostname="fedorone",socket="0",memory_controller="IMC-0",channel="Channel-1"} 0
+UNC_M_PMM_RPQ_OCCUPANCY_ALL{hostname="fedorone",socket="0",memory_controller="IMC-0",channel="Channel-2"} 0
+UNC_M_PMM_RPQ_OCCUPANCY_ALL{hostname="fedorone",socket="0",memory_controller="IMC-1",channel="Channel-0"} 63
+UNC_M_PMM_RPQ_OCCUPANCY_ALL{hostname="fedorone",socket="0",memory_controller="IMC-1",channel="Channel-1"} 232
+UNC_M_PMM_RPQ_OCCUPANCY_ALL{hostname="fedorone",socket="0",memory_controller="IMC-1",channel="Channel-2"} 232
+UNC_M_PMM_RPQ_OCCUPANCY_ALL{hostname="fedorone",socket="1",memory_controller="IMC-0",channel="Channel-0"} 64
+UNC_M_PMM_RPQ_OCCUPANCY_ALL{hostname="fedorone",socket="1",memory_controller="IMC-0",channel="Channel-1"} 0
+UNC_M_PMM_RPQ_OCCUPANCY_ALL{hostname="fedorone",socket="1",memory_controller="IMC-0",channel="Channel-2"} 0
+UNC_M_PMM_RPQ_OCCUPANCY_ALL{hostname="fedorone",socket="1",memory_controller="IMC-1",channel="Channel-0"} 63
+UNC_M_PMM_RPQ_OCCUPANCY_ALL{hostname="fedorone",socket="1",memory_controller="IMC-1",channel="Channel-1"} 232
+UNC_M_PMM_RPQ_OCCUPANCY_ALL{hostname="fedorone",socket="1",memory_controller="IMC-1",channel="Channel-2"} 232
+# HELP UNC_M_PMM_WPQ_OCCUPANCY_ALL Counter
+UNC_M_PMM_WPQ_OCCUPANCY_ALL{hostname="fedorone",socket="0",memory_controller="IMC-0",channel="Channel-0"} 0
+UNC_M_PMM_WPQ_OCCUPANCY_ALL{hostname="fedorone",socket="0",memory_controller="IMC-0",channel="Channel-1"} 0
+UNC_M_PMM_WPQ_OCCUPANCY_ALL{hostname="fedorone",socket="0",memory_controller="IMC-0",channel="Channel-2"} 0
+UNC_M_PMM_WPQ_OCCUPANCY_ALL{hostname="fedorone",socket="0",memory_controller="IMC-1",channel="Channel-0"} 0
+UNC_M_PMM_WPQ_OCCUPANCY_ALL{hostname="fedorone",socket="0",memory_controller="IMC-1",channel="Channel-1"} 0
+UNC_M_PMM_WPQ_OCCUPANCY_ALL{hostname="fedorone",socket="0",memory_controller="IMC-1",channel="Channel-2"} 0
+UNC_M_PMM_WPQ_OCCUPANCY_ALL{hostname="fedorone",socket="1",memory_controller="IMC-0",channel="Channel-0"} 0
+UNC_M_PMM_WPQ_OCCUPANCY_ALL{hostname="fedorone",socket="1",memory_controller="IMC-0",channel="Channel-1"} 0
+UNC_M_PMM_WPQ_OCCUPANCY_ALL{hostname="fedorone",socket="1",memory_controller="IMC-0",channel="Channel-2"} 0
+UNC_M_PMM_WPQ_OCCUPANCY_ALL{hostname="fedorone",socket="1",memory_controller="IMC-1",channel="Channel-0"} 0
+UNC_M_PMM_WPQ_OCCUPANCY_ALL{hostname="fedorone",socket="1",memory_controller="IMC-1",channel="Channel-1"} 0
+UNC_M_PMM_WPQ_OCCUPANCY_ALL{hostname="fedorone",socket="1",memory_controller="IMC-1",channel="Channel-2"} 0
+# HELP UNC_M_RPQ_INSERTS Counter
+UNC_M_RPQ_INSERTS{hostname="fedorone",socket="0",memory_controller="IMC-0",channel="Channel-0"} 1666
+UNC_M_RPQ_INSERTS{hostname="fedorone",socket="0",memory_controller="IMC-0",channel="Channel-1"} 2033
+UNC_M_RPQ_INSERTS{hostname="fedorone",socket="0",memory_controller="IMC-0",channel="Channel-2"} 2584
+UNC_M_RPQ_INSERTS{hostname="fedorone",socket="0",memory_controller="IMC-1",channel="Channel-0"} 744
+UNC_M_RPQ_INSERTS{hostname="fedorone",socket="0",memory_controller="IMC-1",channel="Channel-1"} 980
+UNC_M_RPQ_INSERTS{hostname="fedorone",socket="0",memory_controller="IMC-1",channel="Channel-2"} 1827
+UNC_M_RPQ_INSERTS{hostname="fedorone",socket="1",memory_controller="IMC-0",channel="Channel-0"} 1666
+UNC_M_RPQ_INSERTS{hostname="fedorone",socket="1",memory_controller="IMC-0",channel="Channel-1"} 2033
+UNC_M_RPQ_INSERTS{hostname="fedorone",socket="1",memory_controller="IMC-0",channel="Channel-2"} 2584
+UNC_M_RPQ_INSERTS{hostname="fedorone",socket="1",memory_controller="IMC-1",channel="Channel-0"} 744
+UNC_M_RPQ_INSERTS{hostname="fedorone",socket="1",memory_controller="IMC-1",channel="Channel-1"} 980
+UNC_M_RPQ_INSERTS{hostname="fedorone",socket="1",memory_controller="IMC-1",channel="Channel-2"} 1827
+# HELP UNC_M_RPQ_OCCUPANCY Counter
+UNC_M_RPQ_OCCUPANCY{hostname="fedorone",socket="0",memory_controller="IMC-0",channel="Channel-0"} 62051
+UNC_M_RPQ_OCCUPANCY{hostname="fedorone",socket="0",memory_controller="IMC-0",channel="Channel-1"} 73330
+UNC_M_RPQ_OCCUPANCY{hostname="fedorone",socket="0",memory_controller="IMC-0",channel="Channel-2"} 89594
+UNC_M_RPQ_OCCUPANCY{hostname="fedorone",socket="0",memory_controller="IMC-1",channel="Channel-0"} 27270
+UNC_M_RPQ_OCCUPANCY{hostname="fedorone",socket="0",memory_controller="IMC-1",channel="Channel-1"} 34971
+UNC_M_RPQ_OCCUPANCY{hostname="fedorone",socket="0",memory_controller="IMC-1",channel="Channel-2"} 63976
+UNC_M_RPQ_OCCUPANCY{hostname="fedorone",socket="1",memory_controller="IMC-0",channel="Channel-0"} 62051
+UNC_M_RPQ_OCCUPANCY{hostname="fedorone",socket="1",memory_controller="IMC-0",channel="Channel-1"} 73330
+UNC_M_RPQ_OCCUPANCY{hostname="fedorone",socket="1",memory_controller="IMC-0",channel="Channel-2"} 89594
+UNC_M_RPQ_OCCUPANCY{hostname="fedorone",socket="1",memory_controller="IMC-1",channel="Channel-0"} 27270
+UNC_M_RPQ_OCCUPANCY{hostname="fedorone",socket="1",memory_controller="IMC-1",channel="Channel-1"} 34971
+UNC_M_RPQ_OCCUPANCY{hostname="fedorone",socket="1",memory_controller="IMC-1",channel="Channel-2"} 63976
+# HELP UNC_M_WPQ_INSERTS Counter
+UNC_M_WPQ_INSERTS{hostname="fedorone",socket="0",memory_controller="IMC-0",channel="Channel-0"} 8216
+UNC_M_WPQ_INSERTS{hostname="fedorone",socket="0",memory_controller="IMC-0",channel="Channel-1"} 8684
+UNC_M_WPQ_INSERTS{hostname="fedorone",socket="0",memory_controller="IMC-0",channel="Channel-2"} 9011
+UNC_M_WPQ_INSERTS{hostname="fedorone",socket="0",memory_controller="IMC-1",channel="Channel-0"} 7221
+UNC_M_WPQ_INSERTS{hostname="fedorone",socket="0",memory_controller="IMC-1",channel="Channel-1"} 7688
+UNC_M_WPQ_INSERTS{hostname="fedorone",socket="0",memory_controller="IMC-1",channel="Channel-2"} 8459
+UNC_M_WPQ_INSERTS{hostname="fedorone",socket="1",memory_controller="IMC-0",channel="Channel-0"} 8216
+UNC_M_WPQ_INSERTS{hostname="fedorone",socket="1",memory_controller="IMC-0",channel="Channel-1"} 8684
+UNC_M_WPQ_INSERTS{hostname="fedorone",socket="1",memory_controller="IMC-0",channel="Channel-2"} 9011
+UNC_M_WPQ_INSERTS{hostname="fedorone",socket="1",memory_controller="IMC-1",channel="Channel-0"} 7221
+UNC_M_WPQ_INSERTS{hostname="fedorone",socket="1",memory_controller="IMC-1",channel="Channel-1"} 7688
+UNC_M_WPQ_INSERTS{hostname="fedorone",socket="1",memory_controller="IMC-1",channel="Channel-2"} 8459
+# HELP UNC_M_WPQ_OCCUPANCY Counter
+UNC_M_WPQ_OCCUPANCY{hostname="fedorone",socket="0",memory_controller="IMC-0",channel="Channel-0"} 1177027
+UNC_M_WPQ_OCCUPANCY{hostname="fedorone",socket="0",memory_controller="IMC-0",channel="Channel-1"} 1236619
+UNC_M_WPQ_OCCUPANCY{hostname="fedorone",socket="0",memory_controller="IMC-0",channel="Channel-2"} 1250423
+UNC_M_WPQ_OCCUPANCY{hostname="fedorone",socket="0",memory_controller="IMC-1",channel="Channel-0"} 1058804
+UNC_M_WPQ_OCCUPANCY{hostname="fedorone",socket="0",memory_controller="IMC-1",channel="Channel-1"} 1084032
+UNC_M_WPQ_OCCUPANCY{hostname="fedorone",socket="0",memory_controller="IMC-1",channel="Channel-2"} 1164623
+UNC_M_WPQ_OCCUPANCY{hostname="fedorone",socket="1",memory_controller="IMC-0",channel="Channel-0"} 1177027
+UNC_M_WPQ_OCCUPANCY{hostname="fedorone",socket="1",memory_controller="IMC-0",channel="Channel-1"} 1236619
+UNC_M_WPQ_OCCUPANCY{hostname="fedorone",socket="1",memory_controller="IMC-0",channel="Channel-2"} 1250423
+UNC_M_WPQ_OCCUPANCY{hostname="fedorone",socket="1",memory_controller="IMC-1",channel="Channel-0"} 1058804
+UNC_M_WPQ_OCCUPANCY{hostname="fedorone",socket="1",memory_controller="IMC-1",channel="Channel-1"} 1084032
+UNC_M_WPQ_OCCUPANCY{hostname="fedorone",socket="1",memory_controller="IMC-1",channel="Channel-2"} 1164623
+# HELP UNC_M_CAS_COUNT_RD Counter
+UNC_M_CAS_COUNT_RD{hostname="fedorone",socket="0",memory_controller="IMC-0",channel="Channel-0"} 8342
+UNC_M_CAS_COUNT_RD{hostname="fedorone",socket="0",memory_controller="IMC-0",channel="Channel-1"} 8750
+UNC_M_CAS_COUNT_RD{hostname="fedorone",socket="0",memory_controller="IMC-0",channel="Channel-2"} 9416
+UNC_M_CAS_COUNT_RD{hostname="fedorone",socket="0",memory_controller="IMC-1",channel="Channel-0"} 7651
+UNC_M_CAS_COUNT_RD{hostname="fedorone",socket="0",memory_controller="IMC-1",channel="Channel-1"} 7889
+UNC_M_CAS_COUNT_RD{hostname="fedorone",socket="0",memory_controller="IMC-1",channel="Channel-2"} 8708
+UNC_M_CAS_COUNT_RD{hostname="fedorone",socket="1",memory_controller="IMC-0",channel="Channel-0"} 8342
+UNC_M_CAS_COUNT_RD{hostname="fedorone",socket="1",memory_controller="IMC-0",channel="Channel-1"} 8750
+UNC_M_CAS_COUNT_RD{hostname="fedorone",socket="1",memory_controller="IMC-0",channel="Channel-2"} 9416
+UNC_M_CAS_COUNT_RD{hostname="fedorone",socket="1",memory_controller="IMC-1",channel="Channel-0"} 7651
+UNC_M_CAS_COUNT_RD{hostname="fedorone",socket="1",memory_controller="IMC-1",channel="Channel-1"} 7889
+UNC_M_CAS_COUNT_RD{hostname="fedorone",socket="1",memory_controller="IMC-1",channel="Channel-2"} 8708
+# HELP UNC_M_CAS_COUNT_WR Counter
+UNC_M_CAS_COUNT_WR{hostname="fedorone",socket="0",memory_controller="IMC-0",channel="Channel-0"} 8525
+UNC_M_CAS_COUNT_WR{hostname="fedorone",socket="0",memory_controller="IMC-0",channel="Channel-1"} 8926
+UNC_M_CAS_COUNT_WR{hostname="fedorone",socket="0",memory_controller="IMC-0",channel="Channel-2"} 9405
+UNC_M_CAS_COUNT_WR{hostname="fedorone",socket="0",memory_controller="IMC-1",channel="Channel-0"} 7764
+UNC_M_CAS_COUNT_WR{hostname="fedorone",socket="0",memory_controller="IMC-1",channel="Channel-1"} 8289
+UNC_M_CAS_COUNT_WR{hostname="fedorone",socket="0",memory_controller="IMC-1",channel="Channel-2"} 9061
+UNC_M_CAS_COUNT_WR{hostname="fedorone",socket="1",memory_controller="IMC-0",channel="Channel-0"} 8525
+UNC_M_CAS_COUNT_WR{hostname="fedorone",socket="1",memory_controller="IMC-0",channel="Channel-1"} 8926
+UNC_M_CAS_COUNT_WR{hostname="fedorone",socket="1",memory_controller="IMC-0",channel="Channel-2"} 9405
+UNC_M_CAS_COUNT_WR{hostname="fedorone",socket="1",memory_controller="IMC-1",channel="Channel-0"} 7764
+UNC_M_CAS_COUNT_WR{hostname="fedorone",socket="1",memory_controller="IMC-1",channel="Channel-1"} 8289
+UNC_M_CAS_COUNT_WR{hostname="fedorone",socket="1",memory_controller="IMC-1",channel="Channel-2"} 9061
